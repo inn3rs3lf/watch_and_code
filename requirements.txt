@@ -4,3 +4,9 @@ Version 1
 [x] It should have a way to add a Todo
 [x] It should have a way to edit a Todo
 [x] It should have a way to remove a Todo
+
+Version 2
+[x] It should have a function to add a Todo
+[x] It should have a function to edit a Todo
+[x] It should have a function to remove a Todo
+
